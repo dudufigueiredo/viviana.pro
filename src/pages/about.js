@@ -18,8 +18,7 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            Sobre
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -28,26 +27,22 @@ const AboutPage = ({ data }, location) => {
             />
             <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            Comecei a trabalhar na decoração com minha avó Leda Magalhães aos 25
+            anos, com que aprendi muito. Depois de sete anos de prática como
+            assistente fiz um curso de projetos arquitetônicos e decoração, e
+            comecei minha carreira independente.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            De lá pra cá já se passaram mais de vinte anos de carreira, onde
+            tive oportunidade de trabalhar com os mais diversos tipos de estilos
+            e ambientes como casas de praia, de campo, escritórios, apartamentos
+            modernos e rústicos, consultórios, agências de publicidade,
+            restaurantes e até uma sala vip no Estádio do Morumbi. Mas o que tem
+            de comum entre todos estes projetos é o fato de que sou uma
+            decoradora que gosta muito de trabalhar a quatro mãos, meus projetos
+            são todos muito personalizados desenvolvidos em um processo de
+            co-criação onde o cliente participa das escolhas do início ao fim.
           </p>
         </div>
       </article>
