@@ -17,17 +17,30 @@ const BlogIndex = ({ data }, location) => {
   return (
     <Layout title={siteTitle}>
       <SEO
-        title="All posts"
-        keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+        title="About"
+        keywords={[
+          `viviana figueiredo`,
+          `decoração`,
+          `decoradora`,
+          `design`,
+          `interiores`,
+          `interior design`,
+        ]}
       />
-      {/* <Bio /> */}
+      {/* 
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
             {data.site.siteMetadata.description}
           </h2>
         </header>
-      )}
+      )} */}
+
+      <header className="page-head">
+        <h2 className="page-head-title">
+          "Decoradora de interiores a mais de 20 anos criando espaços com alma"
+        </h2>
+      </header>
       <div className="post-feed">
         {posts.map(({ node }) => {
           postCounter++
