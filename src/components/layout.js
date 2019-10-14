@@ -8,11 +8,7 @@ const Layout = props => {
     <div className={`site-wrapper ${toggleNav ? `site-head-open` : ``}`}>
       <header className="site-head">
         <div className="site-head-container">
-          <a
-            className="nav-burger"
-            href={`#`}
-            onClick={() => setToggleNav(!toggleNav)}
-          >
+          <span className="nav-burger" onClick={() => setToggleNav(!toggleNav)}>
             <div
               className="hamburger hamburger--collapse"
               aria-label="Menu"
@@ -23,7 +19,7 @@ const Layout = props => {
                 <div className="hamburger-inner" />
               </div>
             </div>
-          </a>
+          </span>
           <nav id="swup" class="site-head-left">
             <ul className="nav" role="menu">
               <li className="nav-home nav-current" role="menuitem">
