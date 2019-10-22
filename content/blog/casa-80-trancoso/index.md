@@ -1,6 +1,6 @@
 ---
 title: Casa 80 Trancoso
-date: "2019-05-01"
+date: "2019-05-08"
 thumbnail: ./_MG_3691.jpg
 description: Casa no  condomínio Terra a Vista de Trancoso
 ---
