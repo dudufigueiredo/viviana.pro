@@ -1,6 +1,6 @@
 ---
 title: Apartamento no Cidade Jardim
-date: "2019-05-04"
+date: "2019-01-01"
 thumbnail: ./2011-05-13-16.45.33.jpg
 description: Neste apartamento o objetivo era aproveitar o terraço ao máximo, assim criamos uma cozinha gourmet e um ambiente de sala. A vista merece!
 ---

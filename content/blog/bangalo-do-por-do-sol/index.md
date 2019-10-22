@@ -1,6 +1,6 @@
 ---
 title: Bangalô do Por do Sol
-date: "2019-05-08"
+date: "2019-05-01"
 thumbnail: ./FUJI7205.jpg
 description: Em união com o arquiteto Bebeto saiu este projeto, cheio de elementos naturais como palha, corda, seixos e muita madeira, todo aberto para o jardim e a represa.
 ---
