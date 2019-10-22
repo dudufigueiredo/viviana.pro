@@ -53,7 +53,7 @@ body {
 }
 @media (max-width: 850px) {
   .site-wrapper {
-    padding: 6vw;
+    padding: 6vw 3vw;
   }
 }
 
@@ -405,6 +405,7 @@ body {
   .post-card {
     flex: 1 1 100%;
     height: 70vw;
+    margin: 0px 0px 3vw;
   }
 }
 
@@ -501,7 +502,7 @@ body {
 /* ---------------------------------------------------------- */
 
 .post-content {
-  max-width: 720px;
+  max-width: 860px;
   margin: 0 auto;
   padding: 6vw 0;
 }
@@ -540,6 +541,12 @@ body {
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
   transform: translateX(calc(50vw - 50%));
+  box-shadow: 0 24px 64px -24px rgba(0, 0, 0, 0.5);
+}
+@media (max-width: 720px) {
+  .post-content-image {
+    box-shadow: none;
+  }
 }
 
 .post-content-body {
