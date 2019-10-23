@@ -51,36 +51,6 @@ const AboutPage = ({ data }, location) => {
             são todos muito personalizados desenvolvidos em um processo de
             co-criação onde o cliente participa das escolhas do início ao fim.
           </p>
-          <hr />
-          <h3>Vamos bater um papo?</h3>
-          <p style={{ textAlign: "center" }}>
-            Deixe uma mensagem aqui que eu te retorno o mais rápido possivel:
-          </p>
-          <form
-            name="contact"
-            method="POST"
-            data-netlify="true"
-            style={{ maxWidth: "480px", margin: "0 auto" }}
-          >
-            <p>
-              <label>
-                Seu nome: <input type="text" name="name" />
-              </label>
-            </p>
-            <p>
-              <label>
-                Seu e-mail: <input type="email" name="email" />
-              </label>
-            </p>
-            <p>
-              <label>
-                Mensagem: <textarea name="message"></textarea>
-              </label>
-            </p>
-            <p>
-              <button type="submit">Enviar</button>
-            </p>
-          </form>
         </div>
       </article>
     </Layout>
