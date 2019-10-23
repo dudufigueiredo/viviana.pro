@@ -26,7 +26,10 @@ const Layout = props => {
                 <Link to={`/`}>Home</Link>
               </li>
               <li className="nav-about" role="menuitem">
-                <Link to={`/about`}>Sobre</Link>
+                <Link to={`/sobre`}>Sobre</Link>
+              </li>
+              <li className="nav-contact" role="menuitem">
+                <Link to={`/contato`}>Contato</Link>
               </li>
             </ul>
           </nav>

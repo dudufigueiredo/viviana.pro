@@ -5,25 +5,25 @@ thumbnail: ./_MG_3691.jpg
 description: Casa no  condomínio Terra a Vista de Trancoso
 ---
 
-![Casa 80](./_MG_3680.jpg)
+![Casa 80](./_MG_3625.jpg)
+
+![Casa 80](./_MG_3622.jpg)
+
+![Casa 80](./_MG_3636.jpg)
 
 ![Casa 80](./_MG_3665.jpg)
 
 ![Casa 80](./_MG_3667.jpg)
 
-![Casa 80](./_MG_3636.jpg)
-
 ![Casa 80](./_MG_3660.jpg)
 
 ![Casa 80](./_MG_3548.jpg)
 
-![Casa 80](./_MG_3622.jpg)
-
-![Casa 80](./_MG_3625.jpg)
-
 ![Casa 80](./_MG_3539.jpg)
 
 ![Casa 80](./_MG_3501.jpg)
+
+![Casa 80](./_MG_3680.jpg)
 
 ![Casa 80](./vf002.jpg)
 
