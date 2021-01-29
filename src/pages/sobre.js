@@ -36,7 +36,7 @@ const AboutPage = ({ data }, location) => {
           </figure>
           <p>
             Comecei a trabalhar na decoração com minha avó Leda Magalhães aos 25
-            anos, com que aprendi muito. Depois de sete anos de prática como
+            anos, com quem aprendi muito. Depois de sete anos de prática como
             assistente fiz um curso de projetos arquitetônicos e decoração, e
             comecei minha carreira independente.
           </p>
