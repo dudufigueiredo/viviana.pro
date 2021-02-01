@@ -26,9 +26,7 @@ const ContactPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Vamos bater um papo?
-          </h2>
+          <h2 id="contato">Vamos bater um papo?</h2>
           <p style={{ textAlign: "center" }}>
             Deixe uma mensagem aqui que eu te retorno o mais rápido possivel:
           </p>

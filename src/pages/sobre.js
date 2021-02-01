@@ -27,12 +27,12 @@ const AboutPage = ({ data }, location) => {
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
-          <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Sobre
-          </h2>
+          <h2 id="sobre">Sobre</h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img fluid={data.vivi.childImageSharp.fluid} className="kg-image" />
-            {/* <figcaption>Large imagery is at the heart of this theme</figcaption> */}
+            <figcaption>
+              Sempre tendo idéias e criando a "quatro mãos" com meus clientes
+            </figcaption>
           </figure>
           <p>
             Comecei a trabalhar na decoração com minha avó Leda Magalhães aos 25
