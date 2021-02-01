@@ -38,7 +38,7 @@ const BlogIndex = ({ data }, location) => {
 
       <header className="page-head">
         <h2 className="page-head-title">
-          "Decoradora de interiores a mais de 20 anos criando espaços com alma"
+          Decoradora de interiores a mais de 20 anos criando espaços com alma
         </h2>
       </header>
       <div className="post-feed">
